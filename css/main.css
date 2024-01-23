@@ -1,12 +1,12 @@
 
 body {
-    color: #fff;
+    color: lime;
 }
 h1 {
     font-size: 2.5em;
 }
 a {
-    color: lime;
+    color: purple;
 }
 p {
     font-size: 1.2rem;
