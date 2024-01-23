@@ -1,0 +1,43 @@
+
+body {
+    color: lime;
+    background-image: url('https://th.bing.com/th/id/OIP.2WARVi-imaqEzqxktCfG4gHaEo?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'EspaceFont', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+}
+a {
+    color: mediumpurple;
+}
+p {
+    font-size: 1.2rem;
+}
+ul li a {
+    font-size: 1.2rem;
+}
+header {
+    padding: 3rem;
+}
+footer {
+    margin: 3rem;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('https://fonts.google.com/specimen/Roboto?preview.size=20') format('woff2');
+}
+ul li a:hover {
+    text-decoration: underline;
+}
+img {
+    border: 2px solid #fff;
+}
+img {
+    box-shadow: 5px 5px 10px #888888;
+}
+
